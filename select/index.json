@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "十中八九",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-04T05:46:42.080645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "十中八九",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_十中八九_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "十中八九",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_十中八九_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十中八九",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_十中八九_Reol.txt"
+    }
+  ]
+}
